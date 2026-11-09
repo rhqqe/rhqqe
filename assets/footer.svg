@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="70" viewBox="0 0 1200 70" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Build, understand, refine</title>
+  <desc id="desc">A thin blue and mint rule framing the rhqqe wordmark.</desc>
+  <defs>
+    <linearGradient id="rule" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8CCFFF" stop-opacity="0"/>
+      <stop offset=".3" stop-color="#8CCFFF" stop-opacity=".45"/>
+      <stop offset=".7" stop-color="#7FE0B4" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#7FE0B4" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 1H1200" stroke="url(#rule)"/>
+  <text x="600" y="43" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="4" fill="#8BA8BB">RHQQE / BUILD · UNDERSTAND · REFINE</text>
+</svg>

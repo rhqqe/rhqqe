@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">rhqqe</title>
+  <desc id="desc">A dark navy profile banner with an ice-blue wordmark, a mint accent, and an abstract geometric circuit.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101824"/>
+      <stop offset=".55" stop-color="#121E2B"/>
+      <stop offset="1" stop-color="#142D34"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="820" y1="60" x2="1110" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8CCFFF"/>
+      <stop offset="1" stop-color="#7FE0B4"/>
+    </linearGradient>
+    <linearGradient id="top" x1="26" y1="0" x2="1174" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8CCFFF"/>
+      <stop offset=".6" stop-color="#7FE0B4"/>
+      <stop offset="1" stop-color="#233A46"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#8CCFFF" stroke-opacity=".04"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="358" rx="24" fill="url(#background)" stroke="#293D4C" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="356" rx="23" fill="url(#grid)"/>
+  <path d="M28 2H1172" stroke="url(#top)" stroke-width="3"/>
+  <g font-family="Segoe UI, Inter, Arial, sans-serif">
+    <circle cx="68" cy="66" r="4" fill="#7FE0B4"/>
+    <text x="84" y="71" font-size="12" font-weight="600" letter-spacing="2.7" fill="#AFC7D9">PERSONAL DEVELOPMENT LAB</text>
+    <text x="60" y="192" font-size="110" font-weight="700" letter-spacing="2" fill="#F1F6FC">rhqqe<tspan fill="#8CCFFF">.</tspan></text>
+    <text x="66" y="240" font-size="20" fill="#B3BDCC">Windows software. Systems. Thoughtful tools.</text>
+    <path d="M66 288H108" stroke="#7FE0B4" stroke-width="2"/>
+    <text x="124" y="293" font-size="11" font-weight="600" letter-spacing="2.5" fill="#8CCFFF">BUILD</text>
+    <circle cx="188" cy="289" r="2" fill="#466070"/>
+    <text x="205" y="293" font-size="11" font-weight="600" letter-spacing="2.5" fill="#B9D7E6">UNDERSTAND</text>
+    <circle cx="327" cy="289" r="2" fill="#466070"/>
+    <text x="344" y="293" font-size="11" font-weight="600" letter-spacing="2.5" fill="#7FE0B4">REFINE</text>
+  </g>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M801 70H1027L1110 153V293H886L801 208Z" stroke="#8CCFFF" stroke-opacity=".1"/>
+    <path d="M822 91H1018L1089 162V272H895L822 199Z" stroke="#8CCFFF" stroke-opacity=".12" stroke-dasharray="3 11"/>
+    <path d="M843 113H1009L1067 171V251H904L843 190Z" fill="#8CCFFF" fill-opacity=".025" stroke="url(#accent)" stroke-width="1.5"/>
+    <path d="M843 148H798L771 175H735M1067 218H1107L1131 194H1162" stroke="url(#accent)" stroke-width="1.5" stroke-opacity=".55"/>
+    <path d="M927 113V77L950 54M981 251V290L958 313" stroke="url(#accent)" stroke-width="1.5" stroke-opacity=".55"/>
+    <circle cx="735" cy="175" r="3" fill="#8CCFFF"/>
+    <circle cx="1162" cy="194" r="3" fill="#7FE0B4"/>
+    <circle cx="950" cy="54" r="3" fill="#8CCFFF"/>
+    <circle cx="958" cy="313" r="3" fill="#7FE0B4"/>
+    <path d="M917 159L892 182L917 205M995 159L1020 182L995 205M970 146L945 218" stroke="url(#accent)" stroke-width="6"/>
+    <path d="M878 127H891M1054 237H1041" stroke="#A9D7E9" stroke-opacity=".5" stroke-width="2"/>
+  </g>
+</svg>
